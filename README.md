@@ -4,7 +4,7 @@ a form of public-key encryption widely used in government systems, digital signa
 
 Topics Covered
 •	Abstract algebra prerequisites: groups, fields, and finite structures
-•	Elliptic curve arithmetic (point addition, doubling, scalar multiplication)
+•Elliptic curve arithmetic (point addition, doubling, scalar multiplication)
 •	Cryptographic protocols: Diffie-Hellman key exchange, ElGamal encryption & digital signatures
 •	Private key generation using the secp192k1 domain parameters
 •	Attacks on discrete logarithm problems (DLP), including Pollard's algorithm
