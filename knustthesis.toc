@@ -1,0 +1,40 @@
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{}%
+\contentsline {section}{\numberline {1.1}Background of the study}{1}{}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{}%
+\contentsline {section}{\numberline {1.3}Objectives of study}{3}{}%
+\contentsline {section}{\numberline {1.4}Significance of the study}{3}{}%
+\contentsline {section}{\numberline {1.5}Scope of the study}{3}{}%
+\contentsline {section}{\numberline {1.6}Organization of Study}{4}{}%
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{5}{}%
+\contentsline {chapter}{\numberline {3}Methodology}{9}{}%
+\contentsline {section}{\numberline {3.1}Group Law}{9}{}%
+\contentsline {subsection}{\numberline {3.1.1}Weierstrass Equation}{9}{}%
+\contentsline {subsection}{\numberline {3.1.2}Group Properties}{10}{}%
+\contentsline {section}{\numberline {3.2}Using one solution to find various solution to an elliptic curve}{11}{}%
+\contentsline {section}{\numberline {3.3}Finding point algebraically}{13}{}%
+\contentsline {subsection}{\numberline {3.3.1}Identity}{15}{}%
+\contentsline {subsection}{\numberline {3.3.2}Inverse}{15}{}%
+\contentsline {subsection}{\numberline {3.3.3}Associative}{16}{}%
+\contentsline {subsection}{\numberline {3.3.4}Point Doubling}{18}{}%
+\contentsline {section}{\numberline {3.4}cyclic group}{20}{}%
+\contentsline {subsection}{\numberline {3.4.1}The Key Pair Generation of ECC}{20}{}%
+\contentsline {section}{\numberline {3.5}Diffie - Hellman Key Exchange on elliptic curve cryptography}{20}{}%
+\contentsline {section}{\numberline {3.6}ElGamal Public Key Encryption}{21}{}%
+\contentsline {section}{\numberline {3.7}ElGamal Digital Signatures}{22}{}%
+\contentsline {chapter}{\numberline {4}}{24}{}%
+\contentsline {section}{\numberline {4.1} Application of rational numbers on elliptic curves in cryptography.}{24}{}%
+\contentsline {subsection}{\numberline {4.1.1}Fermat curves}{24}{}%
+\contentsline {subsection}{\numberline {4.1.2}The Mordell Weil group}{25}{}%
+\contentsline {section}{\numberline {4.2}The Discrete Logarithm Problems}{25}{}%
+\contentsline {section}{\numberline {4.3}Attacks on Discrete logs}{26}{}%
+\contentsline {subsection}{\numberline {4.3.1}Attacks Aiming to Recover x}{26}{}%
+\contentsline {subsection}{\numberline {4.3.2}Attacks for Forging Signatures}{27}{}%
+\contentsline {subsection}{\numberline {4.3.3}Baby Step, Giant Step}{28}{}%
+\contentsline {subsection}{\numberline {4.3.4} Pollard's $\rho $ Method}{29}{}%
+\contentsline {section}{\numberline {4.4}Elliptic Curve Domain Parameters}{32}{}%
+\contentsline {subsection}{\numberline {4.4.1}Elliptic Curve Domain Parameters over Fp}{32}{}%
+\contentsline {subsection}{\numberline {4.4.2}Recommended Parameters secp192k1}{32}{}%
+\contentsline {chapter}{\numberline {5}Conclusion and Recommendation}{36}{}%
+\contentsline {section}{\numberline {5.1}Conclusion}{36}{}%
+\contentsline {section}{\numberline {5.2}Recommendation}{36}{}%
+\contentsline {chapter}{References}{38}{}%

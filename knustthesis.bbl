@@ -1,0 +1,113 @@
+\begin{thebibliography}{}
+
+\bibitem[Afreen and Mehrotra, 2011]{Afreen2011}
+Afreen, R. and Mehrotra, S.~C. (2011).
+\newblock A review on elliptic curve cryptography for embedded systems.
+\newblock {\em arXiv preprint arXiv:1107.3631}.
+
+\bibitem[Barbulescu et~al., 2015]{Barbulescu2015}
+Barbulescu, R., Gaudry, P., Guillevic, A., and Morain, F. (2015).
+\newblock Improving nfs for the discrete logarithm problem in non-prime finite
+  fields.
+\newblock In {\em Annual International Conference on the Theory and
+  Applications of Cryptographic Techniques}, pages 129--155. Springer.
+
+\bibitem[Bellare et~al., 2000]{Bellare2000}
+Bellare, M., Boldyreva, A., and Micali, S. (2000).
+\newblock Public-key encryption in a multi-user setting: Security proofs and
+  improvements.
+\newblock In {\em International Conference on the Theory and Applications of
+  Cryptographic Techniques}, pages 259--274. Springer.
+
+\bibitem[Brown, 2009]{brown2009standards}
+Brown, D. (2009).
+\newblock Standards for efficient cryptography, sec 1: elliptic curve
+  cryptography.
+\newblock {\em Released Standard Version}, 1.
+
+\bibitem[Chen, 2008]{Chen2008}
+Chen, Z. (2008).
+\newblock Elliptic curve analogue of legendre sequences.
+\newblock {\em Monatshefte f{\"u}r Mathematik}, 154(1):1--10.
+
+\bibitem[Danger et~al., 2013]{Danger2013}
+Danger, J.-L., Guilley, S., Hoogvorst, P., Murdica, C., and Naccache, D.
+  (2013).
+\newblock A synthesis of side-channel attacks on elliptic curve cryptography in
+  smart-cards.
+\newblock {\em Journal of Cryptographic Engineering}, 3(4):241--265.
+
+\bibitem[ElGamal, 1985]{ElGamal1985}
+ElGamal, T. (1985).
+\newblock A public key cryptosystem and a signature scheme based on discrete
+  logarithms.
+\newblock {\em IEEE transactions on information theory}, 31(4):469--472.
+
+\bibitem[Koblitz, 1987]{Koblitz1987}
+Koblitz, N. (1987).
+\newblock Elliptic curve cryptosystems.
+\newblock {\em Mathematics of computation}, 48(177):203--209.
+
+\bibitem[Koblitz et~al., 2000]{Koblitz2000}
+Koblitz, N., Menezes, A., and Vanstone, S. (2000).
+\newblock The state of elliptic curve cryptography.
+\newblock {\em Designs, codes and cryptography}, 19(2):173--193.
+
+\bibitem[Kumar et~al., 2016]{Kumar2016}
+Kumar, M., Iqbal, A., and Kumar, P. (2016).
+\newblock A new rgb image encryption algorithm based on dna encoding and
+  elliptic curve diffie--hellman cryptography.
+\newblock {\em Signal Processing}, 125:187--202.
+
+\bibitem[Mahto et~al., 2016]{mahto2016security}
+Mahto, D., Khan, D.~A., and Yadav, D.~K. (2016).
+\newblock Security analysis of elliptic curve cryptography and rsa.
+\newblock In {\em Proceedings of the world congress on engineering}, volume~1,
+  pages 419--422.
+
+\bibitem[Manoj, 2010]{manoj2010cryptography}
+Manoj, I. V.~S. (2010).
+\newblock Cryptography and steganography.
+\newblock {\em International Journal of Computer Applications}, 1(12):63--68.
+
+\bibitem[Narayan, 2018a]{Narayan2018}
+Narayan, S. (2018a).
+\newblock A review on elliptic curve cryptography.
+\newblock {\em International Journal of Emerging Technology and Innovative
+  Engineering}, 4(12).
+
+\bibitem[Narayan, 2018b]{Narayan2018a}
+Narayan, S. (2018b).
+\newblock A review on elliptic curve cryptography.
+\newblock {\em International Journal of Emerging Technology and Innovative
+  Engineering}, 4(12).
+
+\bibitem[Schroeppel et~al., 1995]{Schroeppel1995}
+Schroeppel, R., Orman, H., O'Malley, S., and Spatscheck, O. (1995).
+\newblock Fast key exchange with elliptic curve systems.
+\newblock In {\em Annual International Cryptology Conference}, pages 43--56.
+  Springer.
+
+\bibitem[Silverman and Tate, 2015]{Silverman2015}
+Silverman, J. and Tate, J. (2015).
+\newblock {\em Rational Points on Elliptic Curves}.
+
+\bibitem[Smart, 1999]{Smart1999}
+Smart, N.~P. (1999).
+\newblock The discrete logarithm problem on elliptic curves of trace one.
+\newblock {\em Journal of cryptology}, 12(3):193--196.
+
+\bibitem[Sutikno et~al., 1998]{Sutikno1998}
+Sutikno, S., Surya, A., and Effendi, R. (1998).
+\newblock An implementation of elgamal elliptic curves cryptosystems.
+\newblock In {\em IEEE. APCCAS 1998. 1998 IEEE Asia-Pacific Conference on
+  Circuits and Systems. Microelectronics and Integrating Systems. Proceedings
+  (Cat. No. 98EX242)}, pages 483--486. IEEE.
+
+\bibitem[Vidhya et~al., 2019]{Vidhya2019}
+Vidhya, E., Sivabalan, S., and Rathipriya, R. (2019).
+\newblock Hybrid key generation for rsa and ecc.
+\newblock In {\em 2019 International Conference on Communication and
+  Electronics Systems (ICCES)}, pages 35--40. IEEE.
+
+\end{thebibliography}

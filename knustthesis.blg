@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: knustthesis.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: titlepage.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: declaration.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: dedication.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: acknowledgement.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter3.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter4.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter5.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: danny1.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: appendix.aux
+Database file #1: danny1.bib
+Repeated entry---line 177 of file danny1.bib
+ : @article{brown2009standards
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--empty publisher in Silverman2015
+You've used 19 entries,
+            1935 wiz_defined-function locations,
+            611 strings with 7090 characters,
+and the built_in function-call counts, 7951 in all, are:
+= -- 808
+> -- 264
+< -- 17
++ -- 105
+- -- 86
+* -- 633
+:= -- 1321
+add.period$ -- 61
+call.type$ -- 19
+change.case$ -- 137
+chr.to.int$ -- 18
+cite$ -- 20
+duplicate$ -- 336
+empty$ -- 586
+format.name$ -- 109
+if$ -- 1605
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 97
+num.names$ -- 57
+pop$ -- 128
+preamble$ -- 1
+purify$ -- 138
+quote$ -- 0
+skip$ -- 263
+stack$ -- 0
+substring$ -- 607
+swap$ -- 70
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 112
+warning$ -- 1
+while$ -- 72
+width$ -- 0
+write$ -- 251
+(There was 1 error message)

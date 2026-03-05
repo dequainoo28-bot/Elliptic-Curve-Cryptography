@@ -1,0 +1,65 @@
+% This file was created with JabRef 2.8.1.
+% Encoding: Cp1252
+
+@ARTICLE{Baidoo2013,
+  author = {Augustine Baidoo},
+  title = {The spread of HIV/AIDS in Ghana},
+  journal = {International journal for the Spread HIV/AIDS},
+  year = {2013},
+  volume = {35},
+  pages = {210-240},
+  owner = {USER},
+  timestamp = {2013.09.16}
+}
+
+@ARTICLE{barnett_he,
+  author = {W. A. Barnett and Y. He and F. Yansi},
+  title = {Stabilization policy as bifurcation selection: Would stabilization
+	policy work if the economy really were unstable. ,},
+  journal = {Journal of Science Maths},
+  year = {2002},
+  volume = {5},
+  pages = {1025-1052},
+  owner = {USER},
+  timestamp = {2013.09.14}
+}
+
+@BOOK{SAK12,
+  title = {Loss Models},
+  publisher = {Wiley},
+  year = {2012},
+  editor = {Harry H. Panjar},
+  author = {Klugman, S. A. and Wilmot, G. E. and Cha,D.},
+  owner = {USER},
+  timestamp = {2013.10.06}
+}
+
+@ARTICLE{gab23,
+  author = {Gabriel Asare Okyere},
+  title = {Mathematics is for great thinkers},
+  journal = {Ghana Mathematical Journal},
+  year = {2013},
+  volume = {34},
+  pages = {23},
+  owner = {USER},
+  timestamp = {2013.09.15}
+}
+
+@BOOK{okyere,
+  title = {Introduction to LaTex},
+  year = {2013},
+  author = {Gabriel Asare Okyere},
+  owner = {USER},
+  timestamp = {2013.09.14}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

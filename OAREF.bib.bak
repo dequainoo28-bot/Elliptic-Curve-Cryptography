@@ -1,0 +1,334 @@
+% Encoding: UTF-8
+
+@InCollection{Cornwell,
+  author    = {Christopher Cornwell and Peter Schmidt},
+  booktitle = {Advanced Studies in Theoretical and Applied Econometrics},
+  publisher = {Springer Berlin Heidelberg},
+  title     = {Stochastic Frontier Analysis and Efficiency Estimation},
+  pages     = {697-726},
+  doi       = {10.1007/978-3-540-75892-1_21},
+}
+
+@Article{Jondrow1982,
+  author  = {James Jondrow and C. A. Knox Lovell and Ivan S. Materov and Peter Schmidt},
+  journal = {Journal of econometrics},
+  title   = {On the estimation of technical inefficiency in the stochastic frontier production function model},
+  year    = {1982},
+  issn    = {0304-4076},
+  number  = {2-3},
+  pages   = {233-238},
+  volume  = {19},
+  doi     = {10.1016/0304-4076(82)90004-5},
+  file    = {:Jondrow1982 - On the Estimation of Technical Inefficiency in the Stochastic Frontier Production Function Model.pdf:PDF},
+}
+
+@InCollection{Wang_2008,
+  author    = {Hung-Jen Wang},
+  booktitle = {The New Palgrave Dictionary of Economics},
+  publisher = {Palgrave Macmillan {UK}},
+  title     = {Stochastic Frontier Models},
+  year      = {2008},
+  pages     = {1-4},
+  doi       = {10.1057/978-1-349-95121-5_2054-1},
+}
+
+@Article{Greene1980,
+  author = {William H. Greene},
+  title  = {Maximum likelihood estimation of econometric frontier functions},
+  year   = {1980},
+  issn   = {0304-4076},
+  pages  = {27-56},
+  volume = {13},
+  doi    = {10.1016/0304-4076(80)90041-x},
+}
+
+@Misc{1986,
+  title = {Empirical likelihood},
+  year  = {2001},
+  doi   = {10.1201/9781420036152-4},
+  pages = {24-45},
+}
+
+@Misc{Kumbhakar2000,
+  author = {Subal C. Kumbhakar and C. A. Knox Lovell},
+  title  = {Stochastic Frontier Analysis},
+  year   = {2000},
+  doi    = {10.1017/cbo9781139174411},
+}
+
+@Misc{Behr2015,
+  author = {Andreas Behr},
+  title  = {Stochastic Frontier Analysis},
+  year   = {2015},
+  doi    = {10.1007/978-3-319-20502-1_8},
+  pages  = {183-201},
+}
+
+@Article{Schmidt2002,
+  author = {Peter Schmidt},
+  title  = {Stochastic Frontier Analysis},
+  year   = {2002},
+  issn   = {0013-0133},
+  pages  = {F156-F158},
+  volume = {112},
+  doi    = {10.1111/1468-0297.0688l},
+}
+
+@Article{Stevenson1980,
+  author = {Joanne Stevenson},
+  title  = {Financial realities of afc threaten our member's trust},
+  year   = {2006},
+  issn   = {0029-6570},
+  pages  = {39-39},
+  volume = {20},
+  doi    = {10.7748/ns.20.27.39.s53},
+}
+
+@Article{Jondrow1982a,
+  author = {James Jondrow and C. A. Knox Lovell and Ivan S. Materov and Peter Schmidt},
+  title  = {On the estimation of technical inefficiency in the stochastic frontier production function model},
+  year   = {1982},
+  issn   = {0304-4076},
+  pages  = {233-238},
+  volume = {19},
+  doi    = {10.1016/0304-4076(82)90004-5},
+}
+
+@Article{Aigner1977,
+  author = {Dennis Aigner and C. A. Knox Lovell and Peter Schmidt},
+  title  = {Formulation and estimation of stochastic frontier production function models},
+  year   = {1977},
+  issn   = {0304-4076},
+  pages  = {21-37},
+  volume = {6},
+  doi    = {10.1016/0304-4076(77)90052-5},
+}
+
+@Article{Schmidt1979,
+  author = {Peter Schmidt and C. A. Knox Lovell},
+  title  = {Estimating technical and allocative inefficiency relative to stochastic production and cost frontiers},
+  year   = {1979},
+  issn   = {0304-4076},
+  pages  = {343-366},
+  volume = {9},
+  doi    = {10.1016/0304-4076(79)90078-2},
+}
+
+@Misc{Cornwella,
+  author = {Christopher Cornwell and Peter Schmidt},
+  title  = {Stochastic Frontier Analysis and Efficiency Estimation},
+  doi    = {10.1007/978-3-540-75892-1_21},
+  pages  = {697-726},
+}
+
+@Article{Lee1983,
+  author = {Lung-Fei Lee},
+  title  = {On maximum likelihood estimation of stochastic frontier production models},
+  year   = {1983},
+  issn   = {0304-4076},
+  pages  = {269-274},
+  volume = {23},
+  doi    = {10.1016/0304-4076(93)90081-f},
+}
+
+@Misc{Kumbhakar2000a,
+  author = {Subal C. Kumbhakar and C. A. Knox Lovell},
+  title  = {Stochastic Frontier Analysis},
+  year   = {2000},
+  doi    = {10.1017/cbo9781139174411},
+}
+
+@Article{Cornwell1990,
+  author = {Christopher Cornwell and Peter Schmidt and Robin C. Sickles},
+  title  = {Production frontiers with cross-sectional and time-series variation in efficiency levels},
+  year   = {1990},
+  issn   = {0304-4076},
+  pages  = {185-200},
+  volume = {46},
+  doi    = {10.1016/0304-4076(90)90054-w},
+}
+
+@Article{Fan1996,
+  author = {Yanqin Fan and Qi Li and Alfons Weersink},
+  title  = {Semiparametric Estimation of Stochastic Production Frontier Models},
+  year   = {1996},
+  issn   = {0735-0015},
+  pages  = {460-468},
+  volume = {14},
+  doi    = {10.1080/07350015.1996.10524675},
+}
+
+@Article{Charnes1978,
+  author = {A. Charnes and W. W. Cooper and E. Rhodes},
+  title  = {Measuring the efficiency of decision making units},
+  year   = {1978},
+  issn   = {0377-2217},
+  pages  = {429-444},
+  volume = {2},
+  doi    = {10.1016/0377-2217(78)90138-8},
+}
+
+@Article{Charnes1979,
+  author = {A. Charnes and W. W. Cooper and E. Rhodes},
+  title  = {Measuring the efficiency of decision-making units},
+  year   = {1979},
+  issn   = {0377-2217},
+  pages  = {339},
+  volume = {3},
+  doi    = {10.1016/0377-2217(79)90229-7},
+}
+
+@Article{Greene1990,
+  author = {William H. Greene},
+  title  = {A Gamma-distributed stochastic frontier model},
+  year   = {1990},
+  issn   = {0304-4076},
+  pages  = {141-163},
+  volume = {46},
+  doi    = {10.1016/0304-4076(90)90052-u},
+}
+
+@Article{Schmidt1979a,
+  author = {Peter Schmidt and C. A. Knox Lovell},
+  title  = {Estimating technical and allocative inefficiency relative to stochastic production and cost frontiers},
+  year   = {1979},
+  issn   = {0304-4076},
+  pages  = {343-366},
+  volume = {9},
+  doi    = {10.1016/0304-4076(79)90078-2},
+}
+
+@Article{Kumbhakar1990,
+  author = {Subal C. Kumbhakar},
+  title  = {Production frontiers, panel data, and time-varying technical inefficiency},
+  year   = {1990},
+  issn   = {0304-4076},
+  pages  = {201-211},
+  volume = {46},
+  doi    = {10.1016/0304-4076(90)90055-x},
+}
+
+@Article{Meeusen1977,
+  author = {Wim Meeusen and Julien van Den Broeck},
+  title  = {Efficiency Estimation from Cobb-Douglas Production Functions with Composed Error},
+  year   = {1977},
+  issn   = {0020-6598},
+  pages  = {435},
+  volume = {18},
+  doi    = {10.2307/2525757},
+}
+
+@Article{Schmidt1984,
+  author = {Peter Schmidt and Robin C. Sickles},
+  title  = {Production Frontiers and Panel Data},
+  year   = {1984},
+  issn   = {0735-0015},
+  pages  = {367},
+  volume = {2},
+  doi    = {10.2307/1391278},
+}
+
+@Article{Broeck1994,
+  author = {Julien van den Broeck and Gary Koop and Jacek Osiewalski and Mark F. J. Steel},
+  title  = {Stochastic frontier models},
+  year   = {1994},
+  issn   = {0304-4076},
+  pages  = {273-303},
+  volume = {61},
+  doi    = {10.1016/0304-4076(94)90087-6},
+}
+@Book{kumbhakar2000stochastic,
+ author = {Kumbhakar, Subal},
+ title = {Stochastic frontier analysis},
+ publisher = {Cambridge University Press},
+ year = {2000},
+ address = {Cambridge England New York},
+ isbn = {0521481848}
+ }
+
+@Article{Battese1995,
+  author = {G. E. Battese and T. J. Coelli},
+  title  = {A model for technical inefficiency effects in a stochastic frontier production function for panel data},
+  year   = {1995},
+  issn   = {0377-7332},
+  pages  = {325-332},
+  volume = {20},
+  doi    = {10.1007/bf01205442},
+}
+
+@Article{Foersund1980,
+  author = {Finn R. Førsund and C. A. Knox Lovell and Peter Schmidt},
+  title  = {A survey of frontier production functions and of their relationship to efficiency measurement},
+  year   = {1980},
+  issn   = {0304-4076},
+  pages  = {5-25},
+  volume = {13},
+  doi    = {10.1016/0304-4076(80)90040-8},
+}
+
+@Article{Ali1996,
+  author   = {Ali, Karamat and Hamid, Abdul},
+  journal  = {The Pakistan Development Review},
+  title    = {Technical change, technical efficiency, and their impact on input demand in the agricultural and manufacturing sectors of Pakistan},
+  year     = {1996},
+  issn     = {2208-4886},
+  pages    = {215--228},
+  volume   = {[1996] 2 VR},
+  doi      = {10.25291/vr/1996-2-vr-49},
+  subtitle = {[1996] 2 VR 49},
+}
+
+@Article{Battese1995a,
+  author = {G. E. Battese and T. J. Coelli},
+  title  = {A model for technical inefficiency effects in a stochastic frontier production function for panel data},
+  year   = {1995},
+  issn   = {0377-7332},
+  pages  = {325-332},
+  volume = {20},
+  doi    = {10.1007/bf01205442},
+}
+
+@Article{Bravo Ureta (1991),
+  author = {Boris E. Bravo Ureta and Laszlo Rieger},
+  title  = {Dairy Farm Efficiency Measurement Using Stochastic Frontiers and Neoclassical Duality},
+  year   = {1991},
+  issn   = {0002-9092},
+  pages  = {421-428},
+  volume = {73},
+  doi    = {10.2307/1242726},
+}
+
+@Article{Battese1992,
+  author = {G. E. Battese and T. J. Coelli},
+  title  = {Frontier production functions, technical efficiency and panel data: With application to paddy farmers in India},
+  year   = {1992},
+  issn   = {0895-562X},
+  pages  = {153-169},
+  volume = {3},
+  doi    = {10.1007/bf00158774},
+}
+
+@Article{Battese1977,
+  author = {George E. Battese and Greg S. Corra},
+  title  = {ESTIMATION OF A PRODUCTION FRONTIER MODEL: WITH APPLICATION TO THE PASTORAL ZONE OF EASTERN AUSTRALIA},
+  year   = {1977},
+  issn   = {0004-9395},
+  pages  = {169-179},
+  volume = {21},
+  doi    = {10.1111/j.1467-8489.1977.tb00204.x},
+  file   = {:Battese1977 - ESTIMATION oF a PRODUCTION FRONTIER MODEL_ wITH APPLICATION tO tHE PASTORAL ZONE oF EASTERN AUSTRALIA.pdf:PDF},
+}
+
+@Article{Battese1988,
+  author = {George E. Battese and Tim J. Coelli},
+  title  = {Prediction of firm-level technical efficiencies with a generalized frontier production function and panel data},
+  year   = {1988},
+  issn   = {0304-4076},
+  pages  = {387-399},
+  volume = {38},
+  doi    = {10.1016/0304-4076(88)90053-x},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: fileDirectoryLatex-Osei-Wusu-DESKTOP-9P4H3IN:D:\\My stuff\\project works and related topics\\PERFOMANCE MEASUREMENT OF HOTELS USING SFA BOOK OFFICIAL;}
